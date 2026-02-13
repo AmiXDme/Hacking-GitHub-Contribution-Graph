@@ -1,0 +1,22 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Repository data
+github-contribution-repo/
+data.json
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Helper files (not needed in repo)
+GITHUB_UPLOAD.md
+PROJECT_SUMMARY.txt
+
