@@ -8,6 +8,9 @@ A Python GUI application that automates GitHub commits to draw text patterns (li
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-green.svg)
 ![License](https://img.shields.io/badge/License-Educational-orange.svg)
 
+> 🤖 **Note: This project was built with AI.** While it is a fun tool for artistic expression, AI-generated code may contain mistakes. If you find any bugs or have improvements, contributions are welcome—feel free to **open a Pull Request**!
+
+
 ## ✨ Features
 
 - 🎯 **Text-to-Pattern**: Type any text and see it previewed on the contribution grid
